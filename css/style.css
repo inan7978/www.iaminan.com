@@ -180,7 +180,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #ffffff !important;
+        background: rgb(255, 255, 255) !important;
     }
     
     .navbar .navbar-brand {
@@ -218,7 +218,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #ffffff !important;
+        background: #1d5583 !important;
     }
     
     .navbar .navbar-brand {
@@ -235,6 +235,15 @@ a:focus {
     
     .navbar .dropdown-menu {
         box-shadow: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: white;
+    }
+    .navbar-toggler-icon {
+        fill: #fff;
+    }
+    .navbar-toggler {
+        border: none;
     }
 }
 
