@@ -245,6 +245,9 @@ a:focus {
     .navbar-toggler {
         border: none;
     }
+    .hero.nav-sticky {
+        margin-top:3.6rem;
+    }
 }
 
 
