@@ -1228,7 +1228,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #23C3EF;
+    background: #ffffff00;
 }
 
 .testimonial .container {
@@ -1477,7 +1477,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #23C3EF;
+    background: #196477;
 }
 
 .footer .container-fluid {
